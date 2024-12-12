@@ -26,13 +26,10 @@
 		{
 			"Name": "Buoyancy",
 			"Enabled": true
-<<<<<<< HEAD
 		},
 		{
 			"Name": "DaySequence",
 			"Enabled": true
-=======
->>>>>>> master
 		}
 	]
 }
